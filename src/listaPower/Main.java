@@ -20,7 +20,7 @@ public class Main {
       l.listapessoa.add(p);
 
     }
-    l.foor();
+    System.out.println(l.toString());
   }
 
 }
